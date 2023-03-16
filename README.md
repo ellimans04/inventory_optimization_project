@@ -11,8 +11,8 @@ I crafted actionable insights using advanced data analytics tools for best inven
 
 It is beneficial for Warehouse/ In-plant Inventory Managers to effectively control the Inventory levels and maintain the Service Levels.
 Increase revenue by effective prioritizing strategies;
-> Minimize overstocked inventory
-> Minimize obsolete inventory
+> Minimize overstocked inventory,
+> Minimize obsolete inventory,
 > Create optimized and efficient ordering systems.
 
 ### Outcomes ###
